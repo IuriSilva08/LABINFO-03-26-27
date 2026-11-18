@@ -1,0 +1,92 @@
+NOME: Iuri Andrade Mariano Silva
+NMEC: 137169
+
+pwd
+/workspaces/LABINFO-03-26-27
+
+1° tarefa:
+git init
+git add identificacao.txt
+git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+git push
+
+2° tarefa:
+mkdir A137169
+cd A137169
+pwd A137169
+touch README.md 
+cd /workspaces/LABINFO-03-26-27
+pwd
+history > cmdstask2.txt
+git add A137169
+git add cmdstask2.txt
+git commit -m "2.ª tarefa concluída"
+
+3° tarefa:
+cd \Users\iuria\OneDrive\Área de Trabalho\copia-fork
+git clone https://github.com/IuriSilva08/LABINFO-03-26-27 copia-fork
+touch index.html
+git add index.html
+git commit -m "3.ª tarefa concluída"
+git push 
+
+4° tarefa:
+git add index.html
+git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push
+
+5° tarefa:
+cd copia-fork
+git pull
+cd /workspaces/LABINFO-03-26-27
+git add disciplina.html
+git commit -m "Cria disciplina.html a partir de index.html"
+git push
+
+
+=== Comandos do Codespace ===
+
+    1  pwd
+    2  git innit
+    3  git init
+    4  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    5  git add identificacao.txt
+    6  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    7  git push
+    8  mkdir A137169
+    9  cd A137169
+   10  pwd
+   11  touch README.md
+   12  ~/cd
+   13  cd /workspaces/LABINFO-03-26-27
+   14  pwd
+   15  history > cmdstask2.txt
+   16  git add A137169
+   17  git add cmdstask2.txt
+   18  git commit -m "2.ª tarefa concluída"
+   19  git push
+   20  git clone LABINFO-03-26-27
+   21  git clone IuriSilva08/ LABINFO-03-26-27
+   22  git clone IuriSilva08/LABINFO-03-26-27
+   23  git clone https://github.com/IuriSilva08/LABINFO-03-26-27 copia-fork
+   24  touch index.html
+   25  git add index.html
+   26  git commit -m "3.ª tarefa concluída"
+   27  git push
+   28  git add index.html
+   29  git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+   30  git push
+   31  cd copia-fork
+   32  git status
+   33  git pull
+   34  git add disciplina.html
+   35  cd /workspaces/LABINFO-03-26-27
+   36  git add disciplina.html
+   37  git commit -m "Cria disciplina.html a partir de index.html"
+   38  git push
+   39  cd copia-fork
+   40  git pull
+   41  cd /workspaces/LABINFO-03-26-27
+   42  history > meusComandosCodespace.txt
+
+   
